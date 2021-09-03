@@ -3,4 +3,4 @@ This repository contains source code for CNN layers of AlexNet  using Xilinx HLS
 # Convolutional Neural Networks
 ![plot](./cnn_page5.png)
 # Pseudocode CNN
-![plot](./pseudocode_cnn.png)
+![plot](./algo_cnn.png)

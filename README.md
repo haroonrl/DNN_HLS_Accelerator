@@ -14,3 +14,12 @@ This repository contains source code for CNN layers of AlexNet  using Xilinx HLS
 | Layer_3       | 389376            |
 | Layer_4       | 292032            |
 | Layer_5       | 146016            |
+# Performance on FPGA 
+|               |                   |
+| ------------- |:-----------------:| 
+| Precision     | 32-bit            |
+| Frequency     | 100               | 
+| FPGA Chip     | UltraScale+ MPSoc |
+| CNN Workload  | AlexNet           |
+| GOP/s         | 70                | 
+

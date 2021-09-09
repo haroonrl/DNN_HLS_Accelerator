@@ -1,7 +1,7 @@
 # DNN_HLS_Accelerator
 This repository contains source code for CNN layers of AlexNet  using Xilinx HLS Vivado.
 # Convolutional Neural Networks
-![plot](./cnn_page5.png)
+![plot](./cnn.png)
 # Pseudocode CNN
 ![plot](./algo_cnn.png)
 # Overview of the System

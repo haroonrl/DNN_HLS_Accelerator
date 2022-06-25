@@ -11,8 +11,8 @@
 #define Tn 1       //Channel Tile factor (input channel parallelsim factor)
 #define N 3        //Num of channels
 #define M 96       //Num of filter
-#define KW 11      //Filter width
-#define KH 11      //Filter height
+#define KW 11      //Filter/kernel width
+#define KH 11      //Filter/kernel height
 
 //Top convoltion function
 void conv_top_hw(int i_fmap[Tn][I_ROWS][I_COLS],

@@ -1,6 +1,6 @@
 #include "conv.h"
 
-//----on-Chip buffers---//
+//----on-Chip buffers------//
 static int ib[Tn][I_ROWS][I_COLS];
 static int wb[Tn][Tm][KH][KW];
 static int ob[Tm][O_ROWS][O_COLS];
